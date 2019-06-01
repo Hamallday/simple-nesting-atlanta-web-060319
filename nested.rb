@@ -42,6 +42,8 @@ programmer_hash[:alan_kay][:known_for]
 end
 
 def dennis_ritchies_language
+
+	programmer_hash[:dennis_ritchie][:languages]
 	programmer_hash =
  		{
         :grace_hopper => {
@@ -58,7 +60,7 @@ def dennis_ritchies_language
         }
      }
 
-		 programmer_hash[:dennis_ritchie][:languages]
+
 
 end
 
